@@ -1,0 +1,9 @@
+# modman module description
+# see https://github.com/colinmollenhour/modman/ for more info
+# author: Me
+
+1.7.0.2/app/code/community/Cube/CategoryFeatured/*	app/code/community/Cube/CategoryFeatured/
+1.7.0.2/app/etc/modules/Cube_CategoryFeatured.xml	app/etc/modules/Cube_CategoryFeatured.xml
+1.7.0.2/app/design/frontend/base/default/layout/categoryfeatured.xml	app/design/frontend/base/default/layout/categoryfeatured.xml
+1.7.0.2/app/design/frontend/base/default/template/categoryfeatured/*	app/design/frontend/base/default/template/categoryfeatured/
+1.7.0.2/skin/frontend/base/default/css/cube.css	skin/frontend/base/default/css/cube.css
